@@ -5,7 +5,7 @@ import json
 import os
 
 # Bot token
-TOKEN = os.environ.get("BOT_TOKEN", "YOUR_TELEGRAM_BOT_TOKEN_HERE")
+TOKEN = os.environ.get '8016989870:AAEDPPuzrt_H0ShF9qpU4Aa1UbOJGVGt1SE'
 
 # Google Sheets credential
 google_creds = os.environ.get("GOOGLE_CREDENTIALS")
